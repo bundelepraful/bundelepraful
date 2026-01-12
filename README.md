@@ -48,16 +48,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bundelepraful&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bundelepraful&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bundelepraful&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prafulbundele&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prafulbundele&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulbundele&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/your-username
@@ -71,3 +65,11 @@
 </p>
 
 ⭐ **If you like my work, consider starring my repositories!**
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prafulbundele&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prafulbundele&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulbundele&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
